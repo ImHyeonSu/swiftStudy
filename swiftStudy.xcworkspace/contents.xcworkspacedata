@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:btn_title_study1">
+   </FileRef>
+   <FileRef
+      location = "group:DatePicker_study2">
+   </FileRef>
+   <FileRef
+      location = "group:PickerView_study3">
+   </FileRef>
+   <FileRef
+      location = "group:Tab_study5">
+   </FileRef>
+   <FileRef
+      location = "group:webView_study4">
+   </FileRef>
+</Workspace>
